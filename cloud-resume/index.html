@@ -44,15 +44,52 @@
 			<div class="inner">
 				<div style="text-align: right;">
 					<div style="text-align: right;">
-						<h1>Christopher Fernandez</h1>
+						<h1 class="animated-text">Hi! I'm Chris</h1>
+						<style>
+							@keyframes textAnimation {
+								0% {
+									width: 0;
+								}
+
+								100% {
+									width: 100%;
+								}
+							}
+
+							.animated-text {
+								border-right: .15em solid orange;
+								white-space: nowrap;
+								overflow: hidden;
+								animation: textAnimation 2s steps(44, end), blink-caret .75s step-end infinite;
+							}
+						</style>
+						<h1 class="animated-text">Welcome</h1>
+						<style>
+							@keyframes differentAnimation {
+								0% {
+									width: 0;
+								}
+
+								100% {
+									width: 100%;
+								}
+							}
+
+							.different-text {
+								border-right: .15em solid orange;
+								white-space: nowrap;
+								overflow: hidden;
+								animation: differentAnimation 2s steps(44, end), blink-caret .75s step-end infinite;
+							}
+						</style>
 
 					</div>
 		</section>
 		<section id="aboutme" class="wrapper style1 fullscreen fade-up">
 			<div class="inner">
-				<div style="text-align: right;">
+				<div style="text-align: center;">
 					<div style="text-align: center;">
-						<h1>About Me</h1>
+						<h1 class="centered-text">About Me</h1>
 					</div>
 					<span style="color: white;">I am a dedicated and passionate backend engineer</span>
 					<br><span style="color: white;">with a deep understanding of AWS</span>
