@@ -1,4 +1,4 @@
-![Architecture](images/AWS-Architecture-Cloud-resume-challenge.jpg)
+![Architecture](./cloud-resume/images/AWS-Architecture-Cloud-resume-challenge.jpg)
 
 Services Used:
 
