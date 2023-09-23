@@ -1,11 +1,13 @@
-![Architecture](./cloud-resume/images/AWS-Architecture-Cloud-resume-challenge.jpg)
+## Architecture
 
-Services Used:
+![Architecture Diagram](/cloud-resume/images/aws-arch.jpg)
 
-S3
-AWS CloudFront
-Certificate Manager
-AWS Lambda
-Dynamo DB
-GitHub Actions
-Terraform
+**Services Used**:
+
+- S3
+- AWS CloudFront
+- Certificate Manager
+- AWS Lambda
+- Dynamo DB
+- GitHub Actions
+- Terraform
