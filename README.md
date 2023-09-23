@@ -11,3 +11,5 @@
 - Dynamo DB
 - GitHub Actions
 - Terraform
+
+## [Live Demo 🔗](https://resume.datamasterytech.com)
